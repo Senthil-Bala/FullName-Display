@@ -12,8 +12,8 @@ function FullNameForm() {
     } else {
       alert('Please fill in both first and last name fields.');
     }
-    setFirstName('');
-    setLastName('');
+    // setFirstName('');
+    // setLastName('');
   };
   
 
